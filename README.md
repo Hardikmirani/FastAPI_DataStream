@@ -68,4 +68,4 @@ I'm a Python Developer and enthusiastic for Data Science
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardik-mirani)
-[![kaggle](https://img.shields.io/badge/Kaggle-1DA1F1?style=for-the-badge&logo=kaggle&logoColor=white)](https://twitter.com/)
+[![kaggle](https://img.shields.io/badge/Kaggle-1DA1F1?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/hardikmirani)
